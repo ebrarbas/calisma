@@ -92,9 +92,9 @@ moving_yay.add(player)
 
 # Görsellere isim tanımlama
 cetvel = pygame.image.load("cetvel.png")
-buton = pygame.image.load("100kg.png")
-buton1 = pygame.image.load("50kg.png")
-buton2 = pygame.image.load("25kg.png")
+buton = pygame.image.load("8kg.png")
+buton1 = pygame.image.load("6kg.png")
+buton2 = pygame.image.load("4kg.png")
 buton3 = pygame.image.load("Demir.png")
 buton4 = pygame.image.load("Çelik.png")
 buton5 = pygame.image.load("Bakır.png")
